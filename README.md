@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+# Hi, I'm Amine Chrif 👋<br><br>🎓 Computer Science Engineering Student at **UM6P College of Computing** 🇲🇦<br><br>I'm a Computer Science student interested in **Artificial Intelligence, Machine Learning, and Software Engineering**. I enjoy turning ideas into practical projects and learning by building, experimenting, and solving real-world problems.<br><br>### 🚀 What I'm working on<br><br>* 🤖 Exploring **AI & Machine Learning**, with a growing interest in LLMs and intelligent applications<br>* 💻 Building software projects with **Python, Java, C++, JavaScript/React, and FastAPI**<br>* 🧠 Working on projects involving **automation, data, computer vision, and AI-powered solutions**<br>* 🛍️ Developing digital and AI solutions for **Store Meknès**, including e-commerce and business automation<br>* 🚀 Building **Cerberus**, an AI-powered solution focused on crowd management and event safety<br>* 🏆 Participating in hackathons and collaborative projects to solve real-world problems<br><br>### 🛠️ Technologies & Tools<br><br>**Languages:** Python · C++ · Java · JavaScript · SQL<br>**AI / Data:** Machine Learning · LLMs · Data Analysis · Computer Vision<br>**Web:** React · Next.js · FastAPI · REST APIs<br>**Tools:** Git · GitHub · Docker · Linux<br><br>### 📌 Featured Projects<br><br>Some of the things I've built or worked on include:<br><br>* 🧠 **AI Study Assistant** — an AI application for interacting with course materials, generating explanations, summaries, quizzes, and answering questions from uploaded documents.<br>* 🖼️ **Image Optimizer** — a Python application for optimizing and converting images with a focus on reducing file size while preserving quality.<br>* 🤖 **RPA Automation** — automation workflows developed during my RPA experience.<br>* 💳 **CampusWallet / FinTech projects** — applications developed through hackathons to solve financial and student-oriented problems.<br>* 🛒 **Store Meknès** — e-commerce and automation solutions for a real-world retail business.<br><br>### 🌱 Currently Learning<br><br>I'm currently deepening my knowledge of:<br><br>`Machine Learning` · `Algorithms & Data Structures` · `Backend Development` · `LLMs` · `System Design` · `Software Engineering`<br><br>### 🎯 My Goal<br><br>To become a strong **AI/Software Engineer** capable of combining solid computer science fundamentals with modern AI technologies to build useful, scalable products.<br><br>---<br><br>📫 **Let's connect and build something interesting.**<br>
 
-<!--
-**aminech100/aminech100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amine-chrif-33123b34a) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=aminech100&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=aminech100&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=aminech100&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=aminech100&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
